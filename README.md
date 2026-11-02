@@ -10,7 +10,7 @@
 - 🎓 Étudiante en Master Big Data & Cloud Computing à la Faculté des Sciences Aïn Chock, Université Hassan II de Casablanca.
 - 💻 À l'aise aussi bien dans la construction de pipelines de données que dans le développement backend.
 - 🔍 Intéressée par la façon dont une transaction bancaire circule, se contrôle et se sécurise (détection de fraude, conformité).
-- 🚀 À la recherche d'un stage de fin d'études (PFE) de 6 mois à partir de février 2027.
+- 🚀 À la recherche d'un stage de fin d'études (PFE) de 4 a 6 mois à partir de février 2027.
 
 ## Projets
 
