@@ -15,13 +15,15 @@
 ## Projets
 
 - **FraudShield AI** : détection de fraude bancaire en temps réel, avec scoring à l'autorisation et explications SHAP.
-  `Python · XGBoost · SMOTE · SHAP · Oracle DB` → [repo](LIEN)
+  `Python · XGBoost · SMOTE · SHAP · Oracle DB` 
 - **University Data Platform** : plateforme de data engineering (ingestion, Hudi sur MinIO, Elasticsearch, Metabase, orchestration Airflow). Projet de groupe.
-  `Spark · Airflow · MinIO · Hudi · Hive Metastore · Docker` → [repo](LIEN)
+  `Spark · Airflow · MinIO · Hudi · Hive Metastore · Docker` 
 - **Atlas Performance** : suivi des performances des joueurs (CAN 2025, Coupe du Monde 2026).
-  `Python · FastAPI · PostgreSQL · GraphQL · Plotly` → [repo](LIEN)
+  `Python · FastAPI · PostgreSQL · GraphQL · Plotly` 
 - **Real-Time Weather Dashboard (Maroc)** : tableau de bord météo alimenté par des flux Kafka.
-  `Apache Kafka · Apache Airflow` → [repo](LIEN)
+  `Apache Kafka · Apache Airflow` 
+  - **Catland** : application Android pour suivre et gérer des chats.
+  `Android · NFC · OCR · API de géolocalisation` 
 
 ## Compétences clés
 
