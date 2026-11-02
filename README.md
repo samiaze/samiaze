@@ -1,45 +1,37 @@
 # Bonjour, je suis Samia Zenbile 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Étudiante_en_Master-Big_Data_%26_Cloud_Computing-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stage_PFE-À_partir_de_février_2027-orange?style=for-the-badge" />
-</p>
+![Étudiante en Master](https://img.shields.io/badge/ÉTUDIANTE_EN_MASTER-BIG_DATA_%26_CLOUD_COMPUTING-1f6feb)
+![Stage PFE](https://img.shields.io/badge/STAGE_PFE-À_PARTIR_DE_FÉVRIER_2027-orange)
 
-[LinkedIn](https://www.linkedin.com/in/samia-zenbile-63929127a) • [Email](mailto:samiazenbile66@gmail.com) • [GitHub](https://github.com/samiaze)
-
----
+[LinkedIn](https://linkedin.com/in/samia-zenbile) • [Email](mailto:samiazenbile66@gmail.com) • [GitHub](https://github.com/samiaze)
 
 ## À propos
 
-- 🎓 Étudiante en **Master Big Data & Cloud Computing** à la Faculté des Sciences Aïn Chock, Université Hassan II de Casablanca[cite: 9].
-- 💻 À l'aise aussi bien dans la construction de pipelines de données que dans le développement backend[cite: 9].
-- 🔍 Intéressée par la façon dont une transaction bancaire circule, se contrôle et se sécurise (détection de fraude, conformité)[cite: 9].
-- 🚀 **À la recherche d'un stage de fin d'études (PFE) de 6 mois** à partir de **février 2027**[cite: 9].
+- 🎓 Étudiante en Master Big Data & Cloud Computing à la Faculté des Sciences Aïn Chock, Université Hassan II de Casablanca.
+- 💻 À l'aise aussi bien dans la construction de pipelines de données que dans le développement backend.
+- 🔍 Intéressée par la façon dont une transaction bancaire circule, se contrôle et se sécurise (détection de fraude, conformité).
+- 🚀 À la recherche d'un stage de fin d'études (PFE) de 6 mois à partir de février 2027.
 
----
+## Projets
 
-## 📊 En chiffres
+- **FraudShield AI** : détection de fraude bancaire en temps réel, avec scoring à l'autorisation et explications SHAP.
+  `Python · XGBoost · SMOTE · SHAP · Oracle DB` → [repo](LIEN)
+- **University Data Platform** : plateforme de data engineering (ingestion, Hudi sur MinIO, Elasticsearch, Metabase, orchestration Airflow). Projet de groupe.
+  `Spark · Airflow · MinIO · Hudi · Hive Metastore · Docker` → [repo](LIEN)
+- **Atlas Performance** : suivi des performances des joueurs (CAN 2025, Coupe du Monde 2026).
+  `Python · FastAPI · PostgreSQL · GraphQL · Plotly` → [repo](LIEN)
+- **Real-Time Weather Dashboard (Maroc)** : tableau de bord météo alimenté par des flux Kafka.
+  `Apache Kafka · Apache Airflow` → [repo](LIEN)
 
-| Projets Data / Cloud | Domaines explorés | Certifications | Langues parlées |
-| :---: | :---: | :---: | :---: |
-| **5+** | **Data Engineering, ML & Cloud** | **3** | **3** (Arabe, Français, Anglais) |
+## Compétences clés
 
----
+- **Langages** : Python, SQL, PL/SQL, C, Java, R
+- **Big Data & ETL** : Apache Spark, Hadoop, Apache Kafka, Apache Airflow, Apache Hudi, MinIO
+- **Bases de données & Cloud** : Oracle DB, PostgreSQL, MySQL, Hive Metastore, Docker, Linux, TCP/IP
+- **Recherche & ingestion** : Elasticsearch, Qdrant, RAG, Playwright, Selenium
+- **Machine Learning & XAI** : XGBoost, SMOTE, SHAP, Scikit-learn, Metabase, Power BI
+- **Outils** : Git/GitHub, VS Code, PowerShell
 
-## 🛠️ Compétences clés
+## Langues
 
-- **Langages :** Python, SQL, PL/SQL, C, Java, R[cite: 9]
-- **Big Data & ETL :** Apache Spark, Hadoop, Apache Kafka, Apache Airflow, Apache Hudi, MinIO[cite: 9]
-- **Bases de données & Cloud :** Oracle DB, PostgreSQL, MySQL, Docker, Linux, TCP/IP[cite: 9]
-- **Machine Learning & XAI :** XGBoost, SMOTE, SHAP, Scikit-learn, Metabase, Power BI[cite: 9]
-- **Outils :** Git/GitHub, VS Code, PowerShell, Playwright, Elasticsearch[cite: 9]
-
----
-
-## 🚀 Projets phares
-
-- **FraudShield AI :** Détection de fraude bancaire en temps réel (Python, XGBoost, SMOTE, SHAP, Oracle DB)[cite: 9].
-- **University Data Platform :** Pipeline complet de data engineering (Spark, Airflow, MinIO, Apache Hudi, Elasticsearch, Metabase, Docker)[cite: 9].
-- **Atlas Performance :** Application web d'analyse des performances des joueurs (FastAPI, PostgreSQL, GraphQL, Tailwind CSS)[cite: 9].
-
----
+Arabe (langue maternelle) · Français (courant) · Anglais (professionnel)
