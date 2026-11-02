@@ -22,7 +22,7 @@
   `Python · FastAPI · PostgreSQL · GraphQL · Plotly` 
 - **Real-Time Weather Dashboard (Maroc)** : tableau de bord météo alimenté par des flux Kafka.
   `Apache Kafka · Apache Airflow` 
-  - **Catland** : application Android pour suivre et gérer des chats.
+- **Catland** : application Android pour suivre et gérer des chats.
   `Android · NFC · OCR · API de géolocalisation` 
 
 ## Compétences clés
